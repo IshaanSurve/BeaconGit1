@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370319080204",
+    "project_id": "beacon-df6b1",
+    "storage_bucket": "beacon-df6b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370319080204:android:c28770038eaa64d15fe729",
+        "android_client_info": {
+          "package_name": "com.example.oakridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370319080204-bfngnddvm65tupapn59opu2hjoalforl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawJilVWVyrLGFRb1aj1BcUlgB5_gmous"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370319080204-bfngnddvm65tupapn59opu2hjoalforl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
